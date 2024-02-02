@@ -1,0 +1,57 @@
+h1 {
+    background-color: wheat;
+    color: rgb(219, 15, 36);
+    text-decoration: underline;
+    
+    
+}
+
+h2 {
+    background-color: wheat;
+    color: red;
+    text-decoration: underline;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+tr {
+    /* text-align: center; */
+}
+
+table {
+    border: 2px solid black;
+    font-size: larger;
+    text-align: center;
+
+}
+
+th {
+    background-color: purple;
+    color: yellow;
+}
+
+td {
+    background-color: rgba(242, 235, 19, 0.5);
+    color: purple;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    background-color: beige;
+    /* margin-left: 500px; */
+}
+
+legend {
+    color: ;
+    text-decoration: overline; 
+    /* text-decoration: underline;  */
+    text-align: center;
+}
+
+.abc  {
+    background-color: white;
+    color: black;
+}
